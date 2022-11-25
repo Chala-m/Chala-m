@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- I am Pharmacist and interested in programming
+
 
 <!---
 Chala-m/Chala-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
